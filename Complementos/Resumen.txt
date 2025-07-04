@@ -1,0 +1,17 @@
+Pasos:
+Crear Base Datos
+Crear Proyecto en Nextjs
+Instalar Dependencias Necesarias
+Configurar .env
+Modulo Datos: 
+	database.provider.ts
+	database.module.ts
+Configurar Logger
+Generar Modulos
+crear DTOs
+Implementar Servicios
+Implementar Controles y Swagger
+Prueba del Backend con Postmas
+
+Ajutos imagenes de purbas en postman sin mas que agregar gracias por la oportunidad.
+
